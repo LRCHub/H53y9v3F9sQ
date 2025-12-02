@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Paper Crown",
+  "base_artist": "Liam Gallagher",
+  "createdAt": "2025-12-02T14:05:29.303463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/01_Paper_Crown_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Black",
+      "has_synced": false,
+      "path": "select/02_Paper_Crown_Black.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Tele Novella",
+      "has_synced": false,
+      "path": "select/03_Paper_Crown_Tele_Novella.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/04_Paper_Crown_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/05_Paper_Crown_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Alec Benjamin",
+      "has_synced": true,
+      "path": "select/06_Paper_Crown_Alec_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Bryan Kuznitz)",
+      "artist": "Dark Divine feat. Fame on Fire & Bryan Kuznitz",
+      "has_synced": false,
+      "path": "select/07_Paper_Crown_(feat._Bryan_Kuznitz)_Dark_Divine_feat._Fame_on_Fire_&_Bryan_Kuznitz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Bryan Kuznitz)",
+      "artist": "Dark Divine",
+      "has_synced": false,
+      "path": "select/08_Paper_Crown_(feat._Bryan_Kuznitz)_Dark_Divine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Arcem",
+      "has_synced": false,
+      "path": "select/09_Paper_Crown_Arcem.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Bryan Kuznitz)",
+      "artist": "Dark Divine & Fame on Fire",
+      "has_synced": false,
+      "path": "select/10_Paper_Crown_(feat._Bryan_Kuznitz)_Dark_Divine_&_Fame_on_Fire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "Marika Hackman",
+      "has_synced": true,
+      "path": "select/11_Paper_Crown_Marika_Hackman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Beck and Juicy J)",
+      "artist": "The Black Keys feat. Beck & Juicy J",
+      "has_synced": true,
+      "path": "select/12_Paper_Crown_(feat._Beck_and_Juicy_J)_The_Black_Keys_feat._Beck_&_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paper Crown",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/13_Paper_Crown_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Beck & Juicy J)",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/14_Paper_Crown_(feat._Beck_&_Juicy_J)_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Beck and Juicy J)",
+      "artist": "The Black Keys",
+      "has_synced": false,
+      "path": "select/15_Paper_Crown_(feat._Beck_and_Juicy_J)_The_Black_Keys.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Paper Crown (feat. Beck and Juicy J)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/16_Paper_Crown_(feat._Beck_and_Juicy_J)_Beck.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paper Crown",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/pl_01_Paper_Crown_Liam_Gallagher.txt"
+    }
+  ]
+}
